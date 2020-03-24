@@ -31,12 +31,12 @@ function App() {
           >
             this Component Usability Feedback survey on Teams
           </a>{" "}
-          and also please feel free to post any feedback in{" "}
+          and also please feel free to post any feedback in the{" "}
           <a
             className={cn({ link: true })}
             href="https://teams.microsoft.com/l/channel/19%3adf9128676cd640eea561ed01e0528bff%40thread.skype/Component%2520Library%2520Feedback?groupId=cc19cb29-06a2-48e4-adcc-b6e4a8fe7dfa&tenantId=ae9d6e9a-cc18-4204-ac29-43a0ccb860e8"
           >
-            the Component Usability Teams channel
+            Component Library Feedback Teams channel
           </a>
           .
         </p>
