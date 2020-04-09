@@ -5,6 +5,13 @@
     Arial, sans-serif;
 }
 
+ul {
+  text-align: left;
+}
+ul li {
+  list-style-position: inside;
+}
+
 .link {
   color: blue;
 }
