@@ -4,7 +4,11 @@ Component Library Documentation: http://si.captech.site/ct-react-library/
 
 `Fork` this project to begin creating an application with the Component Library!
 
-Please provide feedback on your experience by filling out [this Component Usability Feedback survey](https://teams.microsoft.com/_?tenantId=ae9d6e9a-cc18-4204-ac29-43a0ccb860e8#/tab::c58eadc6-6a68-43bd-95fb-112c48ebaed7/Component%20Library%20Feedback?threadId=19:df9128676cd640eea561ed01e0528bff@thread.skype&ctx=channel) survey on Teams and also please feel free to post any feedback in the [Component Library Feedback Teams channel](https://teams.microsoft.com/l/channel/19%3adf9128676cd640eea561ed01e0528bff%40thread.skype/Component%2520Library%2520Feedback?groupId=cc19cb29-06a2-48e4-adcc-b6e4a8fe7dfa&tenantId=ae9d6e9a-cc18-4204-ac29-43a0ccb860e8).
+* Please provide feedback on your experience by filling out [this Component Usability Feedback survey](https://teams.microsoft.com/l/entity/81fef3a6-72aa-4648-a763-de824aeafb7d/_djb2_msteams_prefix_1808006743?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A3be3edb06177462a909578cc0aa2b85d%40thread.tacv2%22%7D&groupId=0a67549d-89ea-42a7-a7bb-15e50582b763&tenantId=ae9d6e9a-cc18-4204-ac29-43a0ccb860e8) survey on Teams 
+
+* Please report any individual defects or suggested enhancements using [this Form on Teams](https://teams.microsoft.com/_#/tab::c7045f90-1260-4265-bd19-e2072284a31d/General?threadId=19:3be3edb06177462a909578cc0aa2b85d@thread.tacv2&ctx=channel) survey on Teams 
+
+* Please feel free to post any feedback in the [Component Library Feedback Teams channel](https://teams.microsoft.com/_#/conversations/General?threadId=19:3be3edb06177462a909578cc0aa2b85d@thread.tacv2&ctx=channel)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
